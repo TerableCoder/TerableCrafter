@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": false,
+    "name": "TerableCrafter",
+    "author": "TerableCoder",
+    "homepage": "https://github.com/TerableCoder/TerableCrafter",
+    "description": "Terac to get servant crafting buff",
+    "version": "7/4/19",
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/TerableCrafter/master/"]
+}

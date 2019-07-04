@@ -1,0 +1,12 @@
+{
+	"files": {
+		"index.js": "f067292b444bcea903c93e972932861c47953e4ce77c50c000eb8d958c5e49b4",
+		"module.json": "58f64342f1c8f691da1acf6bbd8a3a5206cb6f33daddb428d0daa72b5ead4569",
+		"README.md": "5f27c4f3803d97f06f5494cedae096319b306670b34e1d30f15f0382734250c4"
+	},
+	"defs": {
+		"C_START_SERVANT_ACTIVE_SKILL": 1,
+		"S_REQUEST_SPAWN_SERVANT": 1,
+		"S_REQUEST_DESPAWN_SERVANT": 1
+	}
+}
